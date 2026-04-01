@@ -1,0 +1,5 @@
+.lingma
+*.log
+*.tmp
+*.exe
+*.bin
